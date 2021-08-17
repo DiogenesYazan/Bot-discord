@@ -1,0 +1,35 @@
+{
+  "name": "yazan_the_bot",
+  "version": "1.0.0",
+  "description": "Um bot para o discord.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yazan The God#3519",
+  "contributors": [
+    "Discord do criador Yazan The God#3519"
+  ],
+  "license": "Unlicense",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "discord.js-v11": "^12.1.1",
+    "dotenv": "^8.6.0",
+    "duck-duck-scrape": "^1.0.3",
+    "enmap": "^5.2.4",
+    "i": "^0.3.6",
+    "merge-img": "^2.1.3",
+    "moment": "^2.29.1",
+    "mongoose": "^5.12.13",
+    "node-ddg": "^2.2.3",
+    "npm": "^7.17.0",
+    "os-utils": "^0.0.14",
+    "parse-ms": "^3.0.0",
+    "quick.db": "^7.1.3",
+    "snekfetch": "^3.6.4",
+    "superagent": "^6.1.0",
+    "u": "^0.1.0",
+    "weather-js": "^2.0.0"
+  },
+  "devDependencies": {}
+}
